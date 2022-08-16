@@ -1,0 +1,32 @@
+ body {
+     background-color: #FFFFFF;
+     font-family: Josefine sans;
+ }
+ 
+ .container {
+     background-color: #FFFFFF;
+     width: 35%;
+     padding: 10px;
+     margin-right: auto;
+     margin-left: auto;
+     margin-top: 50px;
+ }
+ 
+ button {
+     text-align: center;
+     padding: auto;
+     color: #D6767D;
+     width: 150px;
+     height: 30px;
+ }
+ 
+ .psw {
+     float: right;
+ }
+ 
+ .cancelbtn {
+     width: 100px;
+     color: #D6767D;
+     background-color: #FFFFFF;
+     padding: auto;
+ }
